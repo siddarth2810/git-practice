@@ -1,14 +1,13 @@
 # Community Profiles
 
-This repository serves as a place for our attendees to share their LinkedIn and GitHub profiles. Feel free to add your profile to the list!
 
-## How to Add Your Profile
+This repository allows our community members to share their LinkedIn and GitHub profiles. Add your profile as a JSON file in the `participants` directory to join!
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to add your profile.
+## Adding Your Profile
 
-## Profiles
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to add your profile.
 
-- [Jane Doe](https://www.linkedin.com/in/janedoe) - Siddarth github profile
-- [johnsmith](https://github.com/johnsmith) - Siddarth linkedin Profile
-- [Jane Doe](https://www.linkedin.com/in/janedoe) - chetan github profile
-- [Jane Doe](https://www.linkedin.com/in/janedoe) - chetan2 check branch github profile
+## Viewing Profiles
+
+(You can mention here how profiles can be viewed, whether it's directly browsing the `participants` directory, or if you plan to compile them into the README or a separate document.)
+
